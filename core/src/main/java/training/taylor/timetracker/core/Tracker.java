@@ -31,7 +31,7 @@ public class Tracker {
 
         } catch (Exception e) {
 
-        }
+        
 
         boolean valid = false;
 
